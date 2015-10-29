@@ -18,7 +18,7 @@ Than in the module buildscript:
 
 
 ```groovy
-compile 'com.github.shareme:GWSFlipLayout:1.0.0.0@aar'
+compile 'com.github.shareme:GWSFlipLayout:{latest-release-number}@aar'
 ```
 
 Target Android API Range
